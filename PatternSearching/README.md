@@ -74,7 +74,3 @@ The visualized 3×3 maps for measured solutions confirmed that **no bingo condit
 ## 6. Conclusion
 
 This project demonstrated pattern searching in a quantum setting using Grover’s algorithm, specifically applied to the TicTacToe game's non-winning states. The same method can be extended to other pattern recognition problems using similar quantum logic circuits.
-
----
-
-> Project by: **Joshihyeon**
